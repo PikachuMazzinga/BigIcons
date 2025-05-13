@@ -1,2 +1,8 @@
 # BigIcons
 
+The whole project was compiled and posted on DA by MBCMechachu, this is their credits document:
+https://docs.google.com/spreadsheets/d/1kI_PDXnbghxjN2LBvxA6Pz-QqMYlVGN3Z1EivXOYwNY/edit?gid=0#gid=0
+
+Moved to a public repo for ease of access by PikachuMazzinga
+
+Pokémon is Copyright Nintendo, The Pokémon Company, Creatures Inc., & Game Freak Studios.
